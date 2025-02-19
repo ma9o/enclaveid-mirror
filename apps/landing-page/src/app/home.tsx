@@ -60,12 +60,10 @@ function Hero() {
         <div className="flex flex-col md:flex-row items-center gap-12">
           <div className="w-full md:w-1/2 max-w-2xl md:mt-[-100px]">
             <h1 className="text-3xl md:text-5xl font-bold mb-4">
-              Get LLMs to know you
+              User understanding for the AI era
             </h1>
             <p className="text-lg md:text-xl text-gray-600 mb-6">
-              EnclaveID builds an easily queryable, rich causal graph of your
-              life and your projects so you can stop re-explaining yourself
-              every time and focus on your goals.
+              EnclaveID activates your platform's behavioral data to power advanced personalization and intelligent social features that drive engagement.
             </p>
             <button className="bg-brand text-white px-8 py-3 rounded-lg font-medium transition-colors cursor-not-allowed">
               Coming Soon!
